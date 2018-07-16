@@ -1,8 +1,7 @@
-package com.example.petruskova.veronika.bleapp
+package com.vepe.bleapp
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
