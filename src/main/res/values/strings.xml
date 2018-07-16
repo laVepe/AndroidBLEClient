@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BleApp</string>
+    <string name="ble_not_supported">BLE is not supported on this device.</string>
+    <string name="ble_permission_not_granted">Permission was not granted. App won\'t work.</string>
+    <string name="two_rows">%s\n%s</string>
+    <string name="refresh">Refresh</string>
+    <string name="connected">Connected</string>
+    <string name="service_primary">Primary Service</string>
+    <string name="service_secondary">Secondary Service</string>
+    <string name="location_permission_not_granted">Location access was not granted. App won\'t work.</string>
+    <string name="error_message">An error occurred during connecting.</string>
+    <string name="unknown_service">Unknown Service - %s</string>
+    <string name="value">Value: %s</string>
+    <string name="characteristics">Characteristics</string>
+</resources>
