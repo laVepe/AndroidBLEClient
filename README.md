@@ -1,5 +1,5 @@
 # AndroidBLEClient
-Simple Client App demonstrating Bluetooth Low Energy communication with GATT Server. Written in Kotlin with help of Android Architecture Components (LiveData, ViewModel).
+Simple Client App for Bluetooth Low Energy communication with GATT Server. Written in Kotlin with help of Android Architecture Components (LiveData, ViewModel).
 
 <b>Features:</b><br>
   •  Scan for BLE devices<br>
